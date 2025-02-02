@@ -5,6 +5,7 @@
 
 * Simple front end pet ptoject from Figma
 * Using HTML / CSS [SCSS] / jQuery
+* Adaptive 
 
 <p align="center">
 <img src="https://i.imgur.com/B4Uh0FW.png" width="950" title="Antic Site Preview">
@@ -17,6 +18,7 @@
 
 * Simple front end pet ptoject from PSD
 * Using HTML / CSS [SCSS]
+* Responsive 
 
 <p align="center">
 <img src="https://i.imgur.com/7yKuTSn.png" width="950" title="Yebo Bicycle Site Preview">
@@ -29,6 +31,7 @@
 
 * Simple front end pet ptoject from Figma
 * Using HTML / CSS [SCSS]
+* Responsive 
 
 <p align="center">
 <img src="https://i.imgur.com/2Ocea2F.png" width="950" title="Aperture Site Preview">
@@ -41,6 +44,7 @@
 
 * Simple front end ptoject from Figma. [Freelancer Life Style Course]
 * Using HTML / CSS [SCSS] / JavaScript
+* Adaptive 
 
 <p align="center">
 <img src="https://i.imgur.com/y0VBSwU.png" width="950" title="Video Alchemist Site Preview">
@@ -55,6 +59,7 @@
 
 * Few simple projects from Figma [Freelancer Life Style Course]
 * Using HTML / CSS [SCSS] / JavaScript(only in third part)
+* Adaptive (only the third part)
 
 <p align="center">
 <img src="https://i.imgur.com/zFsBLOB.png" width="950" title="Krovato Site Preview">
